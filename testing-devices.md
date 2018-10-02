@@ -32,4 +32,4 @@ Gmail login credentials:
 
 Login: qa-device@htdevelopers.com
 
-Password: Doniczka1@#
+Password: Doniczka!@#
